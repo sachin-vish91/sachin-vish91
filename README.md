@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Vishwakarma
-- 👀 I have experienced in machine learning and deep learning models in drug discovery.
+- 👀 My expertise: machine learning, deep learning, generative models.
 - 🌱 I’m currently working on application of generative models for drug discovery.
 - 📫 Here is my email sachin.vish91@gmail.com
 
